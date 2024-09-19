@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edicarye.github.io/sitemap.html.gz
+Sitemap: https://edicarye.github.io/app/sitemap.html.gz
+Sitemap: https://edicarye.github.io/assets/sitemap.html.gz
+Sitemap: https://edicarye.github.io/css/sitemap.html.gz
+Sitemap: https://edicarye.github.io/data/sitemap.html.gz
+Sitemap: https://edicarye.github.io/includes/sitemap.html.gz
+Sitemap: https://edicarye.github.io/item/sitemap.html.gz
+Sitemap: https://edicarye.github.io/src/sitemap.html.gz
